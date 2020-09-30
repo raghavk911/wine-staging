@@ -76,7 +76,7 @@ should look similar to this:
 ./patches/patchinstall.sh DESTDIR="/path/to/wine" --all
 ```
 
-Before you proceed with the compilation, please make sure that you installed all
+Before you proceed with the compilation, please make sure that you have installed all
 additional build dependencies required for the Wine Staging features you are
 interested in (check output of `./configure`). More information about building
 Wine Staging, optional build dependencies, and hints for packagers are collected
